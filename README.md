@@ -1,15 +1,13 @@
-**Hello... Readers...** 
-  
-I Am Vasu Sahu Doing Virtual Internship Programme From CodSoft On "JavaScript Developer" .  
-The Duration Of The Internship Will Be **4 Weeks** , Strating From **25 March 2024** to **25 Aprail 2024** .
+# Hello, Readers!  
 
-I Have Done A Collective Of 3 Codes , Which Are Following :
- + *To Do List*
- + *PortFolio*
- + *Digital Clock*
+I recently completed a **Virtual Internship Program** as a **JavaScript Developer** with **CodSoft**. This 4-week internship provided invaluable hands-on experience and enhanced my skills in **JavaScript** and web development.  
 
-Throughout The Journey , The CodSoft Help Me To Achieve This Milestone Through Their Enormous Experiences .  
-Thanks You For Your Companionship...I Am Looking Forward To Work With You Again...  
+## Projects Completed:  
+- **To-Do List**  
+- **Portfolio**  
+- **Digital Clock**  
 
-EMAIL : Vasu.sahu.8080@gmail.com  
-ID : *C10PB1501*
+I am immensely grateful to CodSoft for their guidance and support throughout this program, which helped me achieve this milestone. I look forward to more opportunities to collaborate in the future.  
+
+**Email:** Vasu.sahu.8080@gmail.com  
+**ID:** *C10PB1501*  
